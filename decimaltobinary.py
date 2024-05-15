@@ -1,4 +1,4 @@
-# 21100011007  Fatma Gizem ARI
+# Decimal to binary and binary to decimal
 
 print("     HOS GELDINIZ!!!")
 menu = 1
